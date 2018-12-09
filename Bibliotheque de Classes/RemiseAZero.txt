@@ -1,0 +1,10 @@
+delimiter |
+DROP PROCEDURE IF EXISTS RemiseAZero |
+CREATE PROCEDURE RemiseAZero ()
+BEGIN
+delete from posseder;
+delete from diplome;
+delete from employe;
+delete from service;
+END |
+delimiter ;

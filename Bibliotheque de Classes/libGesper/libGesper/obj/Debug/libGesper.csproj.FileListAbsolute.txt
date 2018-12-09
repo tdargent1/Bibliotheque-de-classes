@@ -1,0 +1,10 @@
+C:\DARGENT\libGesper\libGesper\bin\Debug\libGesper.dll
+C:\DARGENT\libGesper\libGesper\bin\Debug\libGesper.pdb
+C:\DARGENT\libGesper\libGesper\obj\Debug\libGesper.dll
+C:\DARGENT\libGesper\libGesper\obj\Debug\libGesper.pdb
+C:\DARGENT\libGesper\libGesper\obj\Debug\libGesper.csprojResolveAssemblyReference.cache
+C:\DARGENT\Bibliotheque de Classes\libGesper\libGesper\bin\Debug\libGesper.dll
+C:\DARGENT\Bibliotheque de Classes\libGesper\libGesper\bin\Debug\libGesper.pdb
+C:\DARGENT\Bibliotheque de Classes\libGesper\libGesper\obj\Debug\libGesper.csprojResolveAssemblyReference.cache
+C:\DARGENT\Bibliotheque de Classes\libGesper\libGesper\obj\Debug\libGesper.dll
+C:\DARGENT\Bibliotheque de Classes\libGesper\libGesper\obj\Debug\libGesper.pdb
