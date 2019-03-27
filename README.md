@@ -11,8 +11,8 @@ Les données seront stockées dans la base de données gesper.
 
 Schéma relationnel
 
-SERVICE   (ser_id, ser_designation, ser-type, ser_produit, ser-capacité, ser_budget)
-EMPLOYE   (emp_id, emp_nom, emp_prenom, emp_sexe,emp_cadre, emp_salaire, #emp_service)
-DIPOME   (dip_id, dip_libelle)
-POSSEDER   (#pos_diplome , #pos_employe)
+SERVICE   (ser_id, ser_designation, ser-type, ser_produit, ser-capacité, ser_budget)<br>
+EMPLOYE   (emp_id, emp_nom, emp_prenom, emp_sexe,emp_cadre, emp_salaire, #emp_service)<br>
+DIPOME   (dip_id, dip_libelle)<br>
+POSSEDER   (#pos_diplome , #pos_employe)<br>
 
